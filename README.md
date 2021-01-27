@@ -1,1 +1,1 @@
-# Online-Store-React-Redux-
+# Online-Store-(React/Redux)
